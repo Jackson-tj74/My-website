@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="bg-gradient-to-r from-blue-700 to-indigo-700 text-white">
+    <footer className="bg-gradient-to-r h-full from-blue-700 to-indigo-700 text-white">
       
       <div className="max-w-7xl mx-auto px-6 py-14 grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
         
